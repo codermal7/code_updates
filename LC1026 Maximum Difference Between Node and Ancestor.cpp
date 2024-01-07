@@ -13,8 +13,11 @@ class Solution {
 public:
     int maxAncestorDiff(TreeNode* root) {
         if (!root)
+        {
             return 0;
+        }
         int minVal = root->val, maxVal = root->val;
+        
         differ(root, minVal, maxVal);
         return diff;
     }

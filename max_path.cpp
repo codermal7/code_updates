@@ -12,12 +12,10 @@ public:
             for (char c : s) {
                 dup |= a & (1 << (c - 'a'));
                 a |=  1 << (c - 'a');
-            }
+             }
             
-            if (dup > 0)
-           { 
+            if (dup > 0) 
                 continue;
-           }
             
             for (int i = dp.size() - 1; i >= 0; i--) {
                 if ((dp[i] & a) > 0)
