@@ -14,7 +14,7 @@ public:
                 a |= 1 << (c - 'a');
             }
             
-            if (dup > 0)
+            if (dup  > 0)
            { 
                 continue;
            }
