@@ -27,8 +27,8 @@ public:
 
         // 2nd code
 
-        int oneCount= -1;
         string ans = "";
+        int oneCount= -1;
         for(auto c: s){ oneCount += (c == '1')?1:0; }
         for(int i = 0; i < s.size(); ++i, --oneCount){
             ans +=  (oneCount > 0)?'1':'0';
