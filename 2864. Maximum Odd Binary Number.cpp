@@ -1,8 +1,12 @@
 class Solution {
 public:
     string maximumOddBinaryNumber(string s) {
+
+        // 1st code
+
         // string ans = "";
         // int freq= -1;
+
         // for(auto ch: s)
         // { 
         //     if(ch=='1')
@@ -20,6 +24,9 @@ public:
         // }
         // ans.pop_back();
         // return ans + '1';
+
+        // 2nd code
+
         int oneCount= -1;
         string ans = "";
         for(auto c: s){ oneCount += (c == '1')?1:0; }
