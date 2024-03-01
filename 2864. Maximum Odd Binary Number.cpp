@@ -1,8 +1,8 @@
 class Solution {
 public:
     string maximumOddBinaryNumber(string s) {
-        // int freq= -1;
         // string ans = "";
+        // int freq= -1;
         // for(auto ch: s)
         // { 
         //     if(ch=='1')
