@@ -27,42 +27,8 @@ public:
         return total_count;
     }
 };
-
-//Code// Optimised the code 3
-// Added code 3
-// Added code 3
-// Added code 3
-// Added code 3
-// Added code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Changed code 3
-// Made minor testing changes for different ide's and online coding profiles 3
 // Automated comment added on 2024-09-22
 // Automated comment added on 2024-09-23
 // Automated comment added on 2024-09-24
 // Automated comment added on 2024-09-25
-// Automated comment added on 2024-09-26
-// Automated comment added on 2024-09-27
-// Automated comment added on 2024-09-28
-// Automated comment added on 2024-09-22
-// Automated comment added on 2024-09-23
-// Automated comment added on 2024-09-24
-// Automated comment added on 2024-09-25
+// Automated comment added on 2024-09-22T22:47:21
