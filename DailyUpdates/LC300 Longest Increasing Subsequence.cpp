@@ -11,3 +11,4 @@ public:
         return ans;
     }
 };
+// Optimised the code 2
