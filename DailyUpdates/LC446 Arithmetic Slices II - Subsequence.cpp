@@ -26,4 +26,4 @@ public:
 
         return total_count;
     }
-};
+};// Changed code 3

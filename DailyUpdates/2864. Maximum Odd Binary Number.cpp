@@ -36,4 +36,4 @@ public:
         ans.pop_back();
         return ans + '1';
     }
-};
+};// Changed code 1
