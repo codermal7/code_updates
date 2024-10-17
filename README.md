@@ -50,7 +50,7 @@ Leveraging **GitHub Actions** to automate updates. Every day, new DSA questions 
 ---
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzYwbTdzaGR2N2Rzcm1hOHkyOHZyZWlmc2Z4bXdtN250anZlOGIyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26his6ZeMjoxEKhlS/giphy.gif" alt="Warning GIF" width="600" height="600">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzYwbTdzaGR2N2Rzcm1hOHkyOHZyZWlmc2Z4bXdtN250anZlOGIyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26his6ZeMjoxEKhlS/giphy.gif" alt="Warning GIF" width="400" height="400">
   <h1 style="color:red; font-family:'Comic Sans MS';">PLEASE AVOID COPYING OTHER'S README</h1>
   <h1 style="color:red; font-family:'Comic Sans MS'; font-size: 2rem;">YOU CAN COPY THEIR CODE BUT NOT THEIR ACHIEVEMENTS</h1>
 </div>
