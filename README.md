@@ -50,11 +50,9 @@ Leveraging **GitHub Actions** to automate updates. Every day, new DSA questions 
 ---
 
 <div align="center">
-
-![DO NOT COPY](https://giphy.com/embed/26his6ZeMjoxEKhlS)
-
+  <img src="https://giphy.com/embed/26his6ZeMjoxEKhlS" alt="Warning GIF" width="200" height="200">
   <h1 style="color:red; font-family:'Comic Sans MS'; font-size: 3rem;">PLEASE AVOID COPYING OTHER'S README'S</h1>
-  <h1 style="color:red; font-family:'Comic Sans MS'; font-size: 2rem;">YOU CAN COPY THEIR CODE BUT NOT THEIR ACHIEVEMENTS</h1>
+  <h2 style="color:red; font-family:'Comic Sans MS'; font-size: 2rem;">YOU CAN COPY THEIR CODE BUT NOT THEIR ACHIEVEMENTS</h2>
 </div>
 
 ---
